@@ -1,1 +1,1 @@
-# lesson-6-black-sea
+# lesson-6
