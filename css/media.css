@@ -1,0 +1,8 @@
+@media screen and (max-width:768px) {
+    .navbar__nav {
+        display: none;
+    }
+    .navbar__burger {
+        display: block;
+    }
+}
